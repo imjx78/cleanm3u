@@ -5,6 +5,8 @@ https://stream1.freetv.fun/tvb-plus-9.ctv
 https://stream1.freetv.fun/tvb-plus-1.m3u8
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", [BD]tvb plus
 https://stream1.freetv.fun/tvb-plus-6.ctv
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", [HD]tvb plus
+https://stream1.freetv.fun/tvb-plus-7.ctv
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", [HD]tvbplus
 https://stream1.freetv.fun/tvbplus-2.ctv
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", [BD]tvbplus
@@ -71,6 +73,8 @@ https://stream1.freetv.fun/fei-cui-7.m3u8
 https://stream1.freetv.fun/fei-cui-14.ctv
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", [HD]翡翠
 https://stream1.freetv.fun/fei-cui-9.ctv
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", [SD]翡翠
+https://stream1.freetv.fun/fei-cui-22.ctv
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", [BD]翡翠
 https://stream1.freetv.fun/fei-cui-6.ctv
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", [HD]翡翠
