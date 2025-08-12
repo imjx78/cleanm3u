@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
 https://stream1.freetv.fun/tvbplus-6.m3u8
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
-https://stream1.freetv.fun/tvbplus-3.m3u8
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
 https://stream1.freetv.fun/tvb-plus-1.m3u8
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
+https://stream1.freetv.fun/tvb-plus-9.ctv
 #EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
-https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
+https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
 #EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
 https://stream1.freetv.fun/tvbsya-zhou-15.m3u8
 #EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
-https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
+https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
 #EXTINF:-1 tvg-id="3493" tvg-name="TVB星河(粵)" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB星河(粵) - 粵 
 https://stream1.freetv.fun/tvbxing-he-6.m3u8
 #EXTINF:-1 tvg-id="3493" tvg-name="TVB星河(粵)" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB星河(粵) - 粵 
@@ -24,15 +24,15 @@ https://stream1.freetv.fun/tvbfei-cui-2.ctv
 #EXTINF:-1 tvg-id="368358" tvg-name="TVB黃金翡翠台" tvg-logo="https://epg.pw/media/images/channel/2024/01/13/large/20240113205212260838_77.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB黃金翡翠台 - 粵 
 https://stream1.freetv.fun/tvbfei-cui-5.ctv
 #EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
+https://stream1.freetv.fun/ming-zhu-12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
 https://stream1.freetv.fun/ming-zhu-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
 https://stream1.freetv.fun/ming-zhu-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
-https://stream1.freetv.fun/ming-zhu-12.m3u8
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
 https://stream1.freetv.fun/ming-zhu-10.m3u8
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
-https://stream1.freetv.fun/ming-zhu-2.ctv
+https://stream1.freetv.fun/ming-zhu-11.ctv
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
 https://stream1.freetv.fun/ming-zhu-6.ctv
 #EXTINF:-1 tvg-id="368348" tvg-name="美亞電影台[HK]" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影" tvg-country="香港" tvg-language="國語", 美亞電影台[HK] - 华 
@@ -52,11 +52,11 @@ https://stream1.freetv.fun/astro-arena-2--e-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="Astro Badminton 2" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015520001285_15.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Badminton 2 - 英 
 https://stream1.freetv.fun/astro-badminton-2-1.ctv
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
+https://stream1.freetv.fun/astro-football--a-1.m3u8
+#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
 https://stream1.freetv.fun/astro-football--ak-1.m3u8
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
 https://stream1.freetv.fun/astro-football-6.ctv
-#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
-https://stream1.freetv.fun/astro-football--a-1.m3u8
 #EXTINF:-1 tvg-id="397403" tvg-name="Astro Grandstand" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181734867306_96.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Grandstand - 英 
 https://stream1.freetv.fun/astro-grandstand-2.ctv
 #EXTINF:-1 tvg-id="" tvg-name="Astro Premier" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Tamil", Astro Premier - 泰 
@@ -70,9 +70,9 @@ https://stream1.freetv.fun/astro-sports-uhd--ak-1.m3u8
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies-5.m3u8
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
-https://stream1.freetv.fun/celestial-movies-1.ctv
-#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies--s-1.m3u8
+#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
+https://stream1.freetv.fun/celestial-movies-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Chinese", 天映經典(MAS) - 华 
 https://stream1.freetv.fun/tian-ying-jing-dian---a-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Chinese", 天映經典(MAS) - 华 
@@ -84,7 +84,7 @@ https://stream1.freetv.fun/tvbs-asia-6.m3u8
 #EXTINF:-1 tvg-id="369245" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS HD - 华 
 https://stream1.freetv.fun/tvbs-9.m3u8
 #EXTINF:-1 tvg-id="369245" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS HD - 华 
-https://stream1.freetv.fun/tvbs-4.ctv
+https://stream1.freetv.fun/tvbs-5.ctv
 #EXTINF:-1 tvg-id="369245" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS HD - 华 
 https://stream1.freetv.fun/tvbs-7.ctv
 #EXTINF:-1 tvg-id="" tvg-name="TVBS News" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922145019289857_16.png" group-title="新聞" tvg-country="台灣" tvg-language="國語", TVBS News - 华 
@@ -102,7 +102,7 @@ https://stream1.freetv.fun/tvbshuan-le-4.m3u8
 #EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="國語", TVBS歡樂臺HD - 华 
 https://stream1.freetv.fun/tvbshuan-le-tai---bei-fen-1.ctv
 #EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="國語", TVBS歡樂臺HD - 华 
-https://stream1.freetv.fun/tvbshuan-le-6.ctv
+https://stream1.freetv.fun/tvbshuan-le-5.ctv
 #EXTINF:-1 tvg-id="370259" tvg-name="經典電影臺" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 經典電影臺 - 华 
 https://stream1.freetv.fun/jing-dian-dian-ying-zhong-wen-1.ctv
 #EXTINF:-1 tvg-id="369287" tvg-name="緯來體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動" tvg-country="台灣" tvg-language="國語", 緯來體育 - 华 
@@ -112,11 +112,11 @@ https://stream1.freetv.fun/wei-lai-ti-yu-10.ctv
 #EXTINF:-1 tvg-id="369287" tvg-name="緯來體育" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動" tvg-country="台灣" tvg-language="國語", 緯來體育 - 华 
 https://stream1.freetv.fun/wei-lai-ti-yu-2.ctv
 #EXTINF:-1 tvg-id="" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
-https://stream1.freetv.fun/mei-ya-dian-ying-7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
 https://stream1.freetv.fun/mei-ya-dian-ying-10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
-https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
+https://stream1.freetv.fun/mei-ya-dian-ying-6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
+https://stream1.freetv.fun/mei-ya-dian-ying-7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華偶像" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 龍華偶像 - 华 
 https://stream1.freetv.fun/long-hua-ou-xiang-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="國語", 龍華卡通 - 华 
