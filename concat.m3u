@@ -70,9 +70,9 @@ https://stream1.freetv.fun/astro-sports-uhd--ak-1.m3u8
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies--e-1.ctv
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
-https://stream1.freetv.fun/celestial-movies-5.m3u8
-#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies-1.ctv
+#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
+https://stream1.freetv.fun/celestial-movies--s-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Chinese", 天映經典(MAS) - 华 
 https://stream1.freetv.fun/tian-ying-jing-dian-12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Chinese", 天映經典(MAS) - 华 
