@@ -10,9 +10,9 @@ https://stream1.freetv.fun/astro-aod--wj-1.ctv
 #EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena - 马 
 https://stream1.freetv.fun/astro-arena--s-1.m3u8
 #EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena - 马 
-https://stream1.freetv.fun/astro-arena-2--wj-1.ctv
-#EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena - 马 
 https://stream1.freetv.fun/astro-arena--wj-1.ctv
+#EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena - 马 
+https://stream1.freetv.fun/astro-arena-2--wj-1.ctv
 #EXTINF:-1 tvg-id="4209" tvg-name="Astro Arena Bola" tvg-logo="https://epg.pw/media/images/channel/2024/02/23/large/20240223231822775517_57.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Arena Bola - 英 
 https://stream1.freetv.fun/astro-arena-bola-1-1.ctv
 #EXTINF:-1 tvg-id="397400" tvg-name="Astro Badminton" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015115511851_84.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Badminton - 英 
@@ -34,7 +34,7 @@ https://stream1.freetv.fun/astrohua-li---wj-1.ctv
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies--s-1.m3u8
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
-https://stream1.freetv.fun/ch-ng-celestial-movies-1.ctv
+https://stream1.freetv.fun/celestial-movies--wj-2.ctv
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies--wj-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="CH305/TVB經典" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", CH305/TVB經典 - 粵 
