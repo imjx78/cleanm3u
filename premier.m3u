@@ -27,6 +27,10 @@ https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
 https://stream1.freetv.fun/astro-football--wj-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="Astro Premier" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Tamil", Astro Premier - 泰 
 https://stream1.freetv.fun/astro-premier--s-1.m3u8
+#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League - 英 
+https://stream1.freetv.fun/astro-premier-leauge-1--wj-1.ctv
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro Premier League2" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154354983236_16.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League2 - 英 
+https://stream1.freetv.fun/astro-premier-leauge-2--wj-1.ctv
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [BD]premier sports 1
 https://stream1.freetv.fun/premier-sports-1-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [HD]premier sports 1
