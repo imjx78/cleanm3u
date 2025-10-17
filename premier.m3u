@@ -4,8 +4,6 @@ https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-10.m3u8
 #EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [HD]cctv-5 体育赛事
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-4.m3u8
 #EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [HD]cctv-5 体育赛事
-https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-6.m3u8
-#EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [HD]cctv-5 体育赛事
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-1.m3u8
 #EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [HD]cctv-5 体育赛事
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-3.m3u8
@@ -19,6 +17,8 @@ https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-8.m3u8
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-9.m3u8
 #EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [VGA]cctv-5 体育赛事
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-11.m3u8
+#EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="日語", [HD]cctv-5 体育赛事
+https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="粵語", [HD]ช่อง sky sports plus
 https://stream1.freetv.fun/ch-ng-sky-sports-plus-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="國語", [BD]now sports premier league 3[geo-blocked]

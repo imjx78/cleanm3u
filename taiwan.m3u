@@ -12,9 +12,9 @@ https://stream1.freetv.fun/tvbs-news-1.m3u8
 #EXTINF:-1 tvg-id="370257" tvg-name="TVBS綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png" group-title="綜藝" tvg-country="台灣" tvg-language="國語", TVBS綜藝 - 华 
 https://stream1.freetv.fun/tvbszong-yi---x-1.m3u8
 #EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
-https://stream1.freetv.fun/mei-ya-dian-ying-8.ctv
-#EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
 https://stream1.freetv.fun/mei-ya-dian-ying-3.ctv
+#EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
+https://stream1.freetv.fun/mei-ya-dian-ying-8.ctv
 #EXTINF:-1 tvg-id="460791" tvg-name="龍華偶像" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 龍華偶像 - 华 
 https://stream1.freetv.fun/long-hua-ou-xiang-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="國語", 龍華卡通 - 华 
