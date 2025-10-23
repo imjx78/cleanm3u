@@ -21,7 +21,7 @@ https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-11.m3u8
 https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="粵語", [HD]ช่อง sky sports plus
 https://stream1.freetv.fun/ch-ng-sky-sports-plus-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="國語", [BD]now sports premier league 3[geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="國語", [BD]now sports premier league 3
 https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
 https://stream1.freetv.fun/astro-football--wj-1.ctv
@@ -39,12 +39,10 @@ https://stream1.freetv.fun/premier-sports-1-2.m3u8
 https://stream1.freetv.fun/ch-ng-premier-sports-1-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [HD]premier sports 2
 https://stream1.freetv.fun/premier-sports-2-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [BD]rta sports
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]rta sports
 https://stream1.freetv.fun/rta-sports-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]rtm sports *wj
 https://stream1.freetv.fun/rtm-sports--wj-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [BD]t sports
-https://stream1.freetv.fun/t-sports-2.m3u8
 #EXTINF:-1 tvg-id="460815" tvg-name="ELTA體育1" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113512627982_77.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育1 - 华 
 https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
 #EXTINF:-1 tvg-id="460841" tvg-name="ELTA體育2" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113626909867_79.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育2 - 华 
