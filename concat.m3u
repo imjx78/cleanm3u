@@ -2,29 +2,29 @@
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
 https://stream1.freetv.fun/tvbplus-5.m3u8
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
-https://stream1.freetv.fun/tvbplus-3.ctv
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
 https://stream1.freetv.fun/tvbplus-1.ctv
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB Plus - 粵 
+https://stream1.freetv.fun/tvb-plus-4.ctv
 #EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
-https://stream1.freetv.fun/tvbsya-zhou-9.m3u8
-#EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
-https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
+https://stream1.freetv.fun/tvbsya-zhou-1.m3u8
 #EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
 https://stream1.freetv.fun/tvbsya-zhou-8.m3u8
+#EXTINF:-1 tvg-id="368335" tvg-name="TVB亞洲劇" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB亞洲劇 - 粵 
+https://stream1.freetv.fun/tvbsya-zhou-5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB娛樂新聞(MAS)" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png" group-title="綜藝" tvg-country="香港" tvg-language="粵語", TVB娛樂新聞(MAS) - 粵 
 https://stream1.freetv.fun/tvbyu-le-xin-wen-6.ctv
 #EXTINF:-1 tvg-id="368358" tvg-name="TVB黃金翡翠台" tvg-logo="https://epg.pw/media/images/channel/2024/01/13/large/20240113205212260838_77.png" group-title="電影" tvg-country="香港" tvg-language="粵語", TVB黃金翡翠台 - 粵 
 https://stream1.freetv.fun/tvbfei-cui-3.ctv
 #EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
+https://stream1.freetv.fun/ming-zhu-10.ctv
+#EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
 https://stream1.freetv.fun/ming-zhu-12.ctv
 #EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
-https://stream1.freetv.fun/ming-zhu-2.ctv
-#EXTINF:-1 tvg-id="" tvg-name="明珠" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141232820122_81.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠 - 粵 
-https://stream1.freetv.fun/ming-zhu-10.ctv
+https://stream1.freetv.fun/ming-zhu-4.ctv
+#EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
+https://stream1.freetv.fun/ming-zhu-11.ctv
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
 https://stream1.freetv.fun/ming-zhu-8.ctv
-#EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
-https://stream1.freetv.fun/ming-zhu-1.ctv
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="粵語", 明珠臺(備) - 粵 
 https://stream1.freetv.fun/ming-zhu-3.ctv
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", 翡翠台 - 粵 
@@ -32,11 +32,11 @@ https://stream1.freetv.fun/fei-cui-8.m3u8
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", 翡翠台 - 粵 
 https://stream1.freetv.fun/fei-cui-5.ctv
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="粵語", 翡翠台 - 粵 
-https://stream1.freetv.fun/fei-cui-10.ctv
-#EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", ASTRO AOD 311 - 粵 
-https://stream1.freetv.fun/astro-aod-2.ctv
+https://stream1.freetv.fun/fei-cui-7.ctv
 #EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", ASTRO AOD 311 - 粵 
 https://stream1.freetv.fun/astro-aod-4.ctv
+#EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", ASTRO AOD 311 - 粵 
+https://stream1.freetv.fun/astro-aod-2.ctv
 #EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", ASTRO AOD 311 - 粵 
 https://stream1.freetv.fun/astro-aod--v-1.ctv
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
@@ -68,11 +68,11 @@ https://stream1.freetv.fun/eltati-yu-2-1.ctv
 #EXTINF:-1 tvg-id="460899" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055421788601_18.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育3(備用) - 华 
 https://stream1.freetv.fun/eltati-yu-3-1.ctv
 #EXTINF:-1 tvg-id="460778" tvg-name="ELTA體育4" tvg-logo="https://epg.pw/media/images/channel/2024/01/16/large/20240116025313246280_42.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4 - 华 
-https://stream1.freetv.fun/elta-4--wj-4.m3u8
+https://stream1.freetv.fun/elta-4--wj-3.m3u8
 #EXTINF:-1 tvg-id="460778" tvg-name="ELTA體育4" tvg-logo="https://epg.pw/media/images/channel/2024/01/16/large/20240116025313246280_42.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4 - 华 
 https://stream1.freetv.fun/elta-4--wj-2.m3u8
 #EXTINF:-1 tvg-id="460778" tvg-name="ELTA體育4" tvg-logo="https://epg.pw/media/images/channel/2024/01/16/large/20240116025313246280_42.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4 - 华 
-https://stream1.freetv.fun/elta-4--wj-3.m3u8
+https://stream1.freetv.fun/elta-4--wj-4.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 
 https://stream1.freetv.fun/delta-tv-3.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="粵語", [HD]ช่อง sky sports plus
 https://stream1.freetv.fun/ch-ng-sky-sports-plus-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="國語", [BD]now sports premier league 3
+#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="國語", [BD]now sports premier league 3[geo-blocked]
 https://stream1.freetv.fun/now-sports-premier-league-3-1.ctv
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
 https://stream1.freetv.fun/astro-football--v-1.ctv
