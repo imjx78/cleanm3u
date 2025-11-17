@@ -1,33 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="460815" tvg-name="ELTA體育1" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113512627982_77.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育1 - 华 
-https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--lv-1.ctv
-#EXTINF:-1 tvg-id="460841" tvg-name="ELTA體育2" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113626909867_79.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育2 - 华 
-https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--lv-1.ctv
-#EXTINF:-1 tvg-id="457245" tvg-name="ELTA體育3" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113544608832_44.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育3 - 华 
-https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--lv-1.ctv
-#EXTINF:-1 tvg-id="460778" tvg-name="ELTA體育4" tvg-logo="https://epg.pw/media/images/channel/2024/01/16/large/20240116025313246280_42.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4 - 华 
-https://stream1.freetv.fun/elta-4--wj-4.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 
 https://stream1.freetv.fun/elta-4--wj-1.m3u8
+#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 
+https://stream1.freetv.fun/delta-tv-2.m3u8
 #EXTINF:-1 tvg-id="3509" tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS Asia - 华 
 https://stream1.freetv.fun/tvbs-asia-8.m3u8
-#EXTINF:-1 tvg-id="3509" tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS Asia - 华 
-https://stream1.freetv.fun/tvbs-asia--lv-1.ctv
 #EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS HD - 华 
 https://stream1.freetv.fun/tvbs--wj-2.m3u8
-#EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="國語", TVBS HD - 华 
-https://stream1.freetv.fun/tvbs--lv-1.ctv
-#EXTINF:-1 tvg-id="370174" tvg-name="TVBS新聞HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新聞" tvg-country="台灣" tvg-language="國語", TVBS新聞HD - 华 
-https://stream1.freetv.fun/tvbsxin-wen---lv-1.ctv
-#EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="國語", TVBS歡樂臺HD - 华 
-https://stream1.freetv.fun/tvbshuan-le---wj-3.m3u8
-#EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="國語", TVBS歡樂臺HD - 华 
-https://stream1.freetv.fun/tvbshuan-le---lv-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="東森綜合" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/01/20170101141958889491_89.jpg" group-title="綜合" tvg-country="台灣" tvg-language="國語", 東森綜合 - 华 
-https://stream1.freetv.fun/dong-sen-zong-he---lv-1.ctv
 #EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
 https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
 #EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
 https://stream1.freetv.fun/mei-ya-dian-ying-9.ctv
-#EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="國語", 美亞電影台[TW] - 华 
-https://stream1.freetv.fun/mei-ya-dian-ying---lv-1.ctv
