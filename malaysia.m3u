@@ -5,41 +5,27 @@ https://stream1.freetv.fun/aec-2.ctv
 https://stream1.freetv.fun/astro-aod-3.ctv
 #EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", ASTRO AOD 311 - 粵 
 https://stream1.freetv.fun/astro-aod--v-1.ctv
-#EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena - 马 
-https://stream1.freetv.fun/astro-arena--tc-1.ctv
-#EXTINF:-1 tvg-id="4100" tvg-name="ASTRO Arena 2" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", ASTRO Arena 2 - 马 
-https://stream1.freetv.fun/astro-arena-2--tc-1.ctv
 #EXTINF:-1 tvg-id="397400" tvg-name="Astro Badminton" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015115511851_84.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Badminton - 英 
 https://stream1.freetv.fun/astro-badminton-1-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="Astro Badminton 2" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015520001285_15.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Badminton 2 - 英 
 https://stream1.freetv.fun/astro-badminton-2-1.ctv
 #EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
 https://stream1.freetv.fun/astro-football--v-1.ctv
-#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181752911817_82.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Football - 英 
-https://stream1.freetv.fun/astro-football--tc-1.ctv
 #EXTINF:-1 tvg-id="397403" tvg-name="Astro Grandstand" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181734867306_96.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Grandstand - 英 
 https://stream1.freetv.fun/astro-grandstand-1.ctv
-#EXTINF:-1 tvg-id="397403" tvg-name="Astro Grandstand" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181734867306_96.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Grandstand - 英 
-https://stream1.freetv.fun/astro-grandstand--tc-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="Astro Premier" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922161447393378_46.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Tamil", Astro Premier - 泰 
-https://stream1.freetv.fun/astro-premier--tc-1.ctv
+#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League - 英 
+https://stream1.freetv.fun/astro-premier-league--v-1.ctv
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League - 英 
 https://stream1.freetv.fun/astro-premier-league-1-1.ctv
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League - 英 
 https://stream1.freetv.fun/astro-premier-league-2-11.ctv
-#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Premier League - 英 
-https://stream1.freetv.fun/astro-premier-league--v-1.ctv
 #EXTINF:-1 tvg-id="1781" tvg-name="Astro QJ" tvg-logo="https://epg.pw/media/images/channel/2023/10/26/large/20231026184205607217_59.png" group-title="Generic" tvg-country="Malaysia" tvg-language="Chinese", Astro QJ - 华 
 https://stream1.freetv.fun/astro-qj-10.ctv
 #EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Sports Plus - 英 
 https://stream1.freetv.fun/astro-sports-plus-1.ctv
-#EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", Astro Sports Plus - 英 
-https://stream1.freetv.fun/astro-sports-plus--tc-1.ctv
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/celestial-movies-1.ctv
 #EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
 https://stream1.freetv.fun/ch-ng-celestial-movies-1.ctv
-#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Cantonese", Celestial Movies - 粵 
-https://stream1.freetv.fun/celestial-movies--tc-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Chinese", 天映經典(MAS) - 华 
 https://stream1.freetv.fun/tian-ying-jing-dian---wj-1.m3u8
