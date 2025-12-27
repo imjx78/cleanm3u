@@ -15,7 +15,7 @@ https://stream1.freetv.fun/beinsports-1--vv-1.ctv
 https://stream1.freetv.fun/beinsports-2--vv-1.ctv
 #EXTINF:-1 tvg-id="3118" tvg-name="Bein Sports3(MY)" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105211625710144_51.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [BD]beinsports 3 *vv[geo-blocked]
 https://stream1.freetv.fun/beinsports-3--vv-1.ctv
-#EXTINF:-1 tvg-id="3118" tvg-name="Bein Sports3(MY)" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105211625710144_51.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]beinsports 3 *sm[geo-blocked]
+#EXTINF:-1 tvg-id="3118" tvg-name="Bein Sports3(MY)" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105211625710144_51.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Bahasa Melayu", [HD]beinsports 3 *sm
 https://stream1.freetv.fun/beinsports-3--sm-1.ctv
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [HD]premier sports 1[geo-blocked]
 https://stream1.freetv.fun/premier-sports-1-2.m3u8
@@ -27,7 +27,7 @@ https://stream1.freetv.fun/premier-sports-4-2.m3u8
 https://stream1.freetv.fun/premier-sports-5-2.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [HD]ช่อง premier sports 1
 https://stream1.freetv.fun/ch-ng-premier-sports-1-1.m3u8
-#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [BD]premier sports
+#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [BD]premier sports[geo-blocked]
 https://stream1.freetv.fun/premier-sports-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="English", [HD]premier sports 2[geo-blocked]
 https://stream1.freetv.fun/premier-sports-2-1.m3u8
@@ -81,11 +81,15 @@ https://stream1.freetv.fun/eltasheng-huo-lu-you-4.m3u8
 https://stream1.freetv.fun/eltasheng-huo-lu-you-1.m3u8
 #EXTINF:-1 tvg-id="457243" tvg-name="ELTA體育1(備用)" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="運動" tvg-country="台灣" tvg-language="國語", [BD]爱尔达体育 1 *vv[geo-blocked]
 https://stream1.freetv.fun/ai-er-da-ti-yu--1--vv-1.ctv
+#EXTINF:-1 tvg-id="457243" tvg-name="ELTA體育1(備用)" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育1(備用) - 华 
+https://stream1.freetv.fun/eltati-1-1.m3u8
 #EXTINF:-1 tvg-id="457244" tvg-name="ELTA體育2(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055335647139_92.png" group-title="運動" tvg-country="台灣" tvg-language="國語", [BD]爱尔达体育 2 *vv[geo-blocked]
 https://stream1.freetv.fun/ai-er-da-ti-yu--2--vv-1.ctv
+#EXTINF:-1 tvg-id="457244" tvg-name="ELTA體育2(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055335647139_92.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育2(備用) - 华 
+https://stream1.freetv.fun/eltati-2-1.m3u8
 #EXTINF:-1 tvg-id="460899" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055421788601_18.png" group-title="運動" tvg-country="台灣" tvg-language="國語", [BD]爱尔达体育 3 *vv[geo-blocked]
 https://stream1.freetv.fun/ai-er-da-ti-yu--3--vv-1.ctv
-#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 
-https://stream1.freetv.fun/delta-tv-3.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", [BD]爱尔达体育 4 *vv[geo-blocked]
 https://stream1.freetv.fun/ai-er-da-ti-yu--4--vv-1.ctv
+#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="國語", ELTA體育4(備用) - 华 
+https://stream1.freetv.fun/delta-tv-3.m3u8
