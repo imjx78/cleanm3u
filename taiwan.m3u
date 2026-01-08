@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="370149" tvg-name="ELTA娛樂HD" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803160524435551_37.jpg" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA娛樂HD - 台灣 
-https://t.freetv.fun/live/eltayu-le-7.m3u8
-#EXTINF:-1 tvg-id="370149" tvg-name="ELTA娛樂HD" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803160524435551_37.jpg" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA娛樂HD - 台灣 
 https://t.freetv.fun/live/eltayu-le-8.m3u8
 #EXTINF:-1 tvg-id="370149" tvg-name="ELTA娛樂HD" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803160524435551_37.jpg" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA娛樂HD - 台灣 
-https://t.freetv.fun/live/eltayu-le-10.m3u8
+https://t.freetv.fun/live/eltayu-le-11.m3u8
+#EXTINF:-1 tvg-id="370149" tvg-name="ELTA娛樂HD" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803160524435551_37.jpg" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA娛樂HD - 台灣 
+https://t.freetv.fun/live/eltayu-le-7.m3u8
 #EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
 #EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
@@ -16,29 +16,29 @@ https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1 tvg-id="3509" tvg-name="TVBS Asia" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS Asia - 台灣 
 https://t.freetv.fun/live/tvbs-asia.m3u8
 #EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS HD - 台灣 
-https://t.freetv.fun/live/tvbs-10.m3u8
-#EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS HD - 台灣 
 https://t.freetv.fun/live/tvbstai-ju-4.m3u8
 #EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS HD - 台灣 
 https://t.freetv.fun/live/tvbs-11.m3u8
-#EXTINF:-1 tvg-id="370174" tvg-name="TVBS新聞HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新聞" tvg-country="台灣" tvg-language="台灣", TVBS新聞HD - 台灣 
-https://t.freetv.fun/live/tvbsxin-wen-6.m3u8
+#EXTINF:-1 tvg-id="370183" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS HD - 台灣 
+https://t.freetv.fun/live/tvbs-13.m3u8
 #EXTINF:-1 tvg-id="370174" tvg-name="TVBS新聞HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新聞" tvg-country="台灣" tvg-language="台灣", TVBS新聞HD - 台灣 
 https://t.freetv.fun/live/tvbsxin-wen-4.m3u8
 #EXTINF:-1 tvg-id="370174" tvg-name="TVBS新聞HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新聞" tvg-country="台灣" tvg-language="台灣", TVBS新聞HD - 台灣 
+https://t.freetv.fun/live/tvbsxin-wen-6.m3u8
+#EXTINF:-1 tvg-id="370174" tvg-name="TVBS新聞HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新聞" tvg-country="台灣" tvg-language="台灣", TVBS新聞HD - 台灣 
 https://t.freetv.fun/live/tvbsxin-wen.ts
-#EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS歡樂臺HD - 台灣 
-https://t.freetv.fun/live/tvbshuan-le-8.m3u8
 #EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS歡樂臺HD - 台灣 
 https://t.freetv.fun/live/tvbshuan-le.m3u8
 #EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS歡樂臺HD - 台灣 
-https://t.freetv.fun/live/tvbshuan-le-13.m3u8
+https://t.freetv.fun/live/tvbshuan-le-12.m3u8
+#EXTINF:-1 tvg-id="370191" tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS歡樂臺HD - 台灣 
+https://t.freetv.fun/live/tvbshuan-le-9.m3u8
 #EXTINF:-1 tvg-id="460736" tvg-name="TVBS精采臺" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS精采臺 - 台灣 
 https://t.freetv.fun/live/tvbsjing-cai-7.m3u8
 #EXTINF:-1 tvg-id="460736" tvg-name="TVBS精采臺" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS精采臺 - 台灣 
-https://t.freetv.fun/live/tvbsjing-cai-8.m3u8
-#EXTINF:-1 tvg-id="460736" tvg-name="TVBS精采臺" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS精采臺 - 台灣 
 https://t.freetv.fun/live/tvbsjing-cai-10.m3u8
+#EXTINF:-1 tvg-id="460736" tvg-name="TVBS精采臺" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS精采臺 - 台灣 
+https://t.freetv.fun/live/tvbsjing-cai-8.m3u8
 #EXTINF:-1 tvg-id="370257" tvg-name="TVBS綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS綜藝 - 台灣 
 https://t.freetv.fun/live/tvbszong-yi-4.m3u8
 #EXTINF:-1 tvg-id="370257" tvg-name="TVBS綜藝" tvg-logo="https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", TVBS綜藝 - 台灣 
@@ -48,50 +48,50 @@ https://t.freetv.fun/live/tvbszong-yi-1.ts
 #EXTINF:-1 tvg-id="370259" tvg-name="經典電影臺" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 經典電影臺 - 台灣 
 https://t.freetv.fun/live/jing-dian-dian-ying-zhong-wen.m3u8
 #EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 美亞電影台[TW] - 台灣 
-https://t.freetv.fun/live/mei-ya-dian-ying-2.php
-#EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 美亞電影台[TW] - 台灣 
-https://t.freetv.fun/live/mei-ya-dian-ying-1.php
+https://t.freetv.fun/live/mei-ya-dian-ying-yue-1.ts
 #EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 美亞電影台[TW] - 台灣 
 https://t.freetv.fun/live/mei-ya-dian-ying-guo-1.ts
+#EXTINF:-1 tvg-id="460873" tvg-name="美亞電影台[TW]" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 美亞電影台[TW] - 台灣 
+https://t.freetv.fun/live/mei-ya-dian-ying.php
 #EXTINF:-1 tvg-id="" tvg-name="龍華偶像" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162628265986_92.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華偶像 - 台灣 
-https://t.freetv.fun/live/long-hua-ou-xiang-8.m3u8
+https://t.freetv.fun/live/long-hua-ou-xiang-5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華偶像" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162628265986_92.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華偶像 - 台灣 
 https://t.freetv.fun/live/long-hua-ou-xiang-7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華偶像" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162628265986_92.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華偶像 - 台灣 
-https://t.freetv.fun/live/long-hua-ou-xiang-5.m3u8
+https://t.freetv.fun/live/long-hua-ou-xiang-8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="台灣", 龍華卡通 - 台灣 
+https://t.freetv.fun/live/long-hua-qia-tong.ts
+#EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="台灣", 龍華卡通 - 台灣 
+https://t.freetv.fun/live/long-hua-qia-tong-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="台灣", 龍華卡通 - 台灣 
 https://t.freetv.fun/live/long-hua-qia-tong-9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="台灣", 龍華卡通 - 台灣 
-https://t.freetv.fun/live/long-hua-qia-tong-11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龍華卡通" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童" tvg-country="台灣" tvg-language="台灣", 龍華卡通 - 台灣 
-https://t.freetv.fun/live/long-hua-qia-tong-10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華戲劇" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華戲劇 - 台灣 
 https://t.freetv.fun/live/long-hua-xi-ju-10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華戲劇" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華戲劇 - 台灣 
-https://t.freetv.fun/live/long-hua-xi-ju-13.m3u8
+https://t.freetv.fun/live/long-hua-xi-ju-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華戲劇" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華戲劇 - 台灣 
-https://t.freetv.fun/live/long-hua-xi-ju-9.m3u8
+https://t.freetv.fun/live/long-hua-xi-ju-13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="龍華日韓" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華日韓 - 台灣 
+https://t.freetv.fun/live/long-hua-ri-han-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華日韓" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華日韓 - 台灣 
 https://t.freetv.fun/live/long-hua-ri-han-7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華日韓" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華日韓 - 台灣 
 https://t.freetv.fun/live/long-hua-ri-han-6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龍華日韓" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華日韓 - 台灣 
-https://t.freetv.fun/live/long-hua-ri-han-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華洋片" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162837055899_54.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華洋片 - 台灣 
 https://t.freetv.fun/live/long-hua-yang-pian-11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華洋片" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162837055899_54.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華洋片 - 台灣 
 https://t.freetv.fun/live/long-hua-yang-pian-6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龍華洋片" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126162837055899_54.jpg" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華洋片 - 台灣 
-https://t.freetv.fun/live/long-hua-yang-pian-9.m3u8
+https://t.freetv.fun/live/long-hua-yang-pian-8.m3u8
 #EXTINF:-1 tvg-id="460816" tvg-name="龍華經典" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華經典 - 台灣 
 https://t.freetv.fun/live/long-hua-jing-dian-11.m3u8
 #EXTINF:-1 tvg-id="460816" tvg-name="龍華經典" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華經典 - 台灣 
-https://t.freetv.fun/live/long-hua-jing-dian-6.m3u8
+https://t.freetv.fun/live/long-hua-jing-dian.ts
 #EXTINF:-1 tvg-id="460816" tvg-name="龍華經典" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華經典 - 台灣 
-https://t.freetv.fun/live/long-hua-jing-dian-9.m3u8
-#EXTINF:-1 tvg-id="460783" tvg-name="龍華電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華電影 - 台灣 
-https://t.freetv.fun/live/long-hua-dian-ying-8.m3u8
+https://t.freetv.fun/live/long-hua-jing-dian-6.m3u8
 #EXTINF:-1 tvg-id="460783" tvg-name="龍華電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華電影 - 台灣 
 https://t.freetv.fun/live/long-hua-dian-ying-11.m3u8
+#EXTINF:-1 tvg-id="460783" tvg-name="龍華電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華電影 - 台灣 
+https://t.freetv.fun/live/long-hua-dian-ying-8.m3u8
 #EXTINF:-1 tvg-id="460783" tvg-name="龍華電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", 龍華電影 - 台灣 
 https://t.freetv.fun/live/long-hua-dian-ying-9.m3u8
