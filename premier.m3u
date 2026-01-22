@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="香港", [HD]cctv-5体育
+https://t.freetv.fun/live/cctv-5ti-yu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]ช่อง sky sports plus
 https://t.freetv.fun/live/ch-ng-sky-sports-plus.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]premier sports 2
@@ -19,6 +21,10 @@ https://t.freetv.fun/live/ch-ng-premier-sports-1.m3u8
 https://t.freetv.fun/live/premier-sports-1-2.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]premier sports 2
 https://t.freetv.fun/live/premier-sports-2-2.m3u8
+#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 4
+https://t.freetv.fun/live/premier-sports-4-1.m3u8
+#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 5
+https://t.freetv.fun/live/premier-sports-5-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports
 https://t.freetv.fun/live/premier-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]rta sports
@@ -27,7 +33,15 @@ https://t.freetv.fun/live/rta-sports.m3u8
 https://t.freetv.fun/live/eltayu-le-10.m3u8
 #EXTINF:-1 tvg-id="370149" tvg-name="ELTA娛樂HD" tvg-logo="https://epg.pw/media/images/channel/2022/08/03/large/20220803160524435551_37.jpg" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA娛樂HD - 台灣 
 https://t.freetv.fun/live/eltayu-le-11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA影劇HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113053852611_32.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", ELTA影劇HD - 台灣 
+https://t.freetv.fun/live/eltaying-ju.m3u8
 #EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA綜合HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719112901791592_35.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", ELTA綜合HD - 台灣 
+https://t.freetv.fun/live/eltazong-he.m3u8
+#EXTINF:-1 tvg-id="457243" tvg-name="ELTA體育1(備用)" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育1(備用) - 台灣 
+https://t.freetv.fun/live/eltati-1.m3u8
+#EXTINF:-1 tvg-id="460899" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055421788601_18.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育3(備用) - 台灣 
+https://t.freetv.fun/live/eltati-3.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-1.m3u8
