@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2226" tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro AEC - Malaysia 
+https://t.freetv.fun/live/astro-aec.m3u8
+#EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO AOD 311 - Malaysia 
+https://t.freetv.fun/live/astro-aod.m3u8
 #EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO AOD 311 - Malaysia 
 https://t.freetv.fun/live/astro-aod-ee.php
 #EXTINF:-1 tvg-id="1781" tvg-name="Astro QJ" tvg-logo="https://epg.pw/media/images/channel/2023/10/26/large/20231026184205607217_59.png" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro QJ - Malaysia 
