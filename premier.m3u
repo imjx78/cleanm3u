@@ -15,7 +15,7 @@ https://t.freetv.fun/live/ch-ng-premier-sports-1.m3u8
 https://t.freetv.fun/live/premier-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]rta sports
 https://t.freetv.fun/live/rta-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]rtm sports
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [VGA]rtm sports
 https://t.freetv.fun/live/rtm-sports.m3u8
 #EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
