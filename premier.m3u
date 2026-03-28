@@ -3,10 +3,12 @@
 https://t.freetv.fun/live/ch-ng-sky-sports-plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports精選
 https://t.freetv.fun/live/now-sportsjing-xuan.m3u8
-#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
-https://t.freetv.fun/live/astro-premier-league-f.ts
+#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 2
+https://t.freetv.fun/live/premier-sports-2.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]premier sports 1
 https://t.freetv.fun/live/premier-sports-1.m3u8
+#EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 1
+https://t.freetv.fun/live/premier-sports-1-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 2
 https://t.freetv.fun/live/premier-sports-2-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]ช่อง premier sports 1
