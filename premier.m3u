@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="C+頻道" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="綜藝" tvg-country="香港" tvg-language="香港", [BD]telepremier plus
-https://t.freetv.fun/live/telepremier-plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]ช่อง sky sports plus
 https://t.freetv.fun/live/ch-ng-sky-sports-plus.m3u8
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
