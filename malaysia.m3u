@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2226" tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro AEC - Malaysia 
-https://t.freetv.fun/live/astro-aec-b.m3u8
-#EXTINF:-1 tvg-id="2226" tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro AEC - Malaysia 
 https://t.freetv.fun/live/astroaec-1.m3u8
+#EXTINF:-1 tvg-id="2226" tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro AEC - Malaysia 
+https://t.freetv.fun/live/astro-aec-b.m3u8
 #EXTINF:-1 tvg-id="2226" tvg-name="Astro AEC" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic" tvg-country="Malaysia" tvg-language="Malaysia", Astro AEC - Malaysia 
 https://t.freetv.fun/live/astro-aec-ee.php
 #EXTINF:-1 tvg-id="2124" tvg-name="ASTRO AOD 311" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Movies" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO AOD 311 - Malaysia 
@@ -16,9 +16,9 @@ https://t.freetv.fun/live/astro-arena-z.ts
 #EXTINF:-1 tvg-id="2552" tvg-name="ASTRO Arena" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226172707246841_66.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO Arena - Malaysia 
 https://t.freetv.fun/live/astro-arena-a.php
 #EXTINF:-1 tvg-id="4100" tvg-name="ASTRO Arena 2" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO Arena 2 - Malaysia 
-https://t.freetv.fun/live/astro-arena-2-z.ts
-#EXTINF:-1 tvg-id="4100" tvg-name="ASTRO Arena 2" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO Arena 2 - Malaysia 
 https://t.freetv.fun/live/astro-arena-2-a.php
+#EXTINF:-1 tvg-id="4100" tvg-name="ASTRO Arena 2" tvg-logo="https://epg.pw/media/images/channel/2022/11/11/large/20221111223229263458_39.jpg" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", ASTRO Arena 2 - Malaysia 
+https://t.freetv.fun/live/astro-arena-2-z.ts
 #EXTINF:-1 tvg-id="4215" tvg-name="Astro Arena Bola 2" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611100515323794_32.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Arena Bola 2 - Malaysia 
 https://t.freetv.fun/live/astro-arena-bola-2-a.php
 #EXTINF:-1 tvg-id="397400" tvg-name="Astro Badminton" tvg-logo="https://epg.pw/media/images/channel/2024/10/18/large/20241018015115511851_84.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Badminton - Malaysia 
