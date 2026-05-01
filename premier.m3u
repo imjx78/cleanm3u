@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="香港", [HD]cctv-5体育
+#EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="香港", [SD]cctv-5体育
 https://t.freetv.fun/live/cctv-5ti-yu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]ช่อง sky sports plus
 https://t.freetv.fun/live/ch-ng-sky-sports-plus.m3u8
