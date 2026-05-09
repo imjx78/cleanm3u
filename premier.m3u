@@ -17,12 +17,6 @@ https://t.freetv.fun/live/ch-ng-premier-sports-1.m3u8
 https://t.freetv.fun/live/premier-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]RTM Sports *a
 https://t.freetv.fun/live/rtm-sports-a.php
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育1" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113512627982_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育1 - 台灣 
-https://t.freetv.fun/live/eltati-yu-1.php
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育2" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113626909867_79.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育2 - 台灣 
-https://t.freetv.fun/live/eltati-yu-2.php
-#EXTINF:-1 tvg-id="" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055421788601_18.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育3(備用) - 台灣 
-https://t.freetv.fun/live/eltati-yu-3.php
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="華視教育文化" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311004339137241_37.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", [BD]华视教育体育文化
