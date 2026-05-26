@@ -21,64 +21,26 @@ https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-9.m3u8
 https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-10.m3u8
 #EXTINF:-1 tvg-id="368333" tvg-name="Animax(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="兒童" tvg-country="香港" tvg-language="香港", [HD]cctv-5 体育赛事
 https://t.freetv.fun/live/cctv-5-ti-yu-sai-shi-3.m3u8
-#EXTINF:-1 tvg-id="410403" tvg-name="Bein Sports 1(HK)" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032121875269_94.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA]Bein Sports 1 *tv
-https://t.freetv.fun/live/bein-sports-1-tv.php
 #EXTINF:-1 tvg-id="" tvg-name="C+頻道" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="綜藝" tvg-country="香港" tvg-language="香港", [BD]telepremier plus
 https://t.freetv.fun/live/telepremier-plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210100834148_98.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports英超1
-https://t.freetv.fun/live/now-sportsying-chao-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210100834148_98.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports1
 https://t.freetv.fun/live/now-sports1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 2
-https://t.freetv.fun/live/now-sports-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports英超2
-https://t.freetv.fun/live/now-sportsying-chao-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806095523589424_68.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports2
 https://t.freetv.fun/live/now-sports2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]ช่อง sky sports plus
 https://t.freetv.fun/live/ch-ng-sky-sports-plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]directv sports plus colombia
+#EXTINF:-1 tvg-id="" tvg-name="Sports Plus 1" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222724425696_46.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]directv sports plus colombia
 https://t.freetv.fun/live/directv-sports-plus-colombia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports Plus 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]tigo sports plus
 https://t.freetv.fun/live/tigo-sports-plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 3
-https://t.freetv.fun/live/now-sports-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports英超3
-https://t.freetv.fun/live/now-sportsying-chao-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210240056560_16.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports3
 https://t.freetv.fun/live/now-sports3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 4" tvg-logo="https://epg.pw/media/images/channel/2026/01/13/large/20260113013110107610_19.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 4
-https://t.freetv.fun/live/now-sports-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 4" tvg-logo="https://epg.pw/media/images/channel/2026/01/13/large/20260113013110107610_19.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports英超4
-https://t.freetv.fun/live/now-sportsying-chao-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports 4" tvg-logo="https://epg.pw/media/images/channel/2026/01/13/large/20260113013110107610_19.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports4
 https://t.freetv.fun/live/now-sports4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 5" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210145067447_75.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 5
-https://t.freetv.fun/live/now-sports-5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 5" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722210145067447_75.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports5
-https://t.freetv.fun/live/now-sports5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports 6" tvg-logo="https://epg.pw/media/" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 6
-https://t.freetv.fun/live/now-sports-6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports 6" tvg-logo="https://epg.pw/media/" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports6
 https://t.freetv.fun/live/now-sports6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]nbc sports now
 https://t.freetv.fun/live/nbc-sports-now.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk now sports 6
-https://t.freetv.fun/live/uk-now-hk-now-sports-6.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk now sports 7
-https://t.freetv.fun/live/uk-now-hk-now-sports-7.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk premier sports 2
-https://t.freetv.fun/live/uk-now-hk-premier-sports-2.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk now sports 2
-https://t.freetv.fun/live/uk-now-hk-now-sports-2.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk now sports 4
-https://t.freetv.fun/live/uk-now-hk-now-sports-4.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [VGA][uk] now hk premier sports 6
-https://t.freetv.fun/live/uk-now-hk-premier-sports-6.ts
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports 7
-https://t.freetv.fun/live/now-sports-7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports精選
-https://t.freetv.fun/live/now-sportsjing-xuan-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports8
 https://t.freetv.fun/live/now-sports8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="now Sports HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722205957773276_84.png" group-title="運動" tvg-country="香港" tvg-language="香港", [BD]now sports7
@@ -90,8 +52,6 @@ https://t.freetv.fun/live/astro-football-aa.php
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
 https://t.freetv.fun/live/astro-premier-league-z.ts
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
-https://t.freetv.fun/live/astro-premier-league-a.m3u8
-#EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
 https://t.freetv.fun/live/astro-premier-league-tv.php
 #EXTINF:-1 tvg-id="397396" tvg-name="Astro Premier League" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154405349622_26.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League - Malaysia 
 https://t.freetv.fun/live/astro-premier-league-aa-1.php
@@ -100,25 +60,15 @@ https://t.freetv.fun/live/astro-premier-league-2-tv.php
 #EXTINF:-1 tvg-id="397397" tvg-name="Astro Premier League2" tvg-logo="https://epg.pw/media/images/channel/2024/10/28/large/20241028154354983236_16.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Premier League2 - Malaysia 
 https://t.freetv.fun/live/astro-premier-league-aa-1.php
 #EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Sports Plus - Malaysia 
-https://t.freetv.fun/live/uk-astro-sports-2.ts
-#EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Sports Plus - Malaysia 
-https://t.freetv.fun/live/uk-astro-sports-4.ts
-#EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Sports Plus - Malaysia 
 https://t.freetv.fun/live/astro-sports-plus-tv.php
 #EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Sports Plus - Malaysia 
 https://t.freetv.fun/live/astro-sports-plus-aa.php
-#EXTINF:-1 tvg-id="4146" tvg-name="Bein Sports 2(MY)" tvg-logo="https://epg.pw/media/images/channel/2024/06/10/large/20240610201236507926_78.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [VGA]Bein Sports 2 *tv
-https://t.freetv.fun/live/bein-sports-2-tv.php
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]premier sports 1
 https://t.freetv.fun/live/premier-sports-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]premier sports 2
 https://t.freetv.fun/live/premier-sports-2-1.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]ช่อง premier sports 1
 https://t.freetv.fun/live/ch-ng-premier-sports-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [VGA]RTM Sports *a
-https://t.freetv.fun/live/rtm-sports-a.php
-#EXTINF:-1 tvg-id="" tvg-name="115新天地民俗臺" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它" tvg-country="台灣" tvg-language="台灣", [VGA]超级体育
-https://t.freetv.fun/live/chao-ji-ti-yu-3-1.m3u8
 #EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
 https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
@@ -127,9 +77,5 @@ https://t.freetv.fun/live/delta-tv.m3u8
 https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven sports" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", Eleven sports - 台灣 
-https://t.freetv.fun/live/eleven-sports-3-1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven sports" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", Eleven sports - 台灣 
-https://t.freetv.fun/live/eleven-sports-2-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="華視教育文化" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311004339137241_37.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", [BD]华视教育体育文化
 https://t.freetv.fun/live/hua-shi-jiao-yu-ti-yu-wen-hua.m3u8
