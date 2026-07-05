@@ -23,3 +23,5 @@ https://t.freetv.fun/live/astro-premier-league-2-tv.ts
 https://t.freetv.fun/live/astro-qj-tv.ts
 #EXTINF:-1 tvg-id="397402" tvg-name="Astro Sports Plus" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", Astro Sports Plus - Malaysia 
 https://t.freetv.fun/live/astro-sports-plus-tv.ts
+#EXTINF:-1 tvg-id="" tvg-name="天映經典(MAS)" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movies" tvg-country="Malaysia" tvg-language="Malaysia", 天映經典(MAS) - Malaysia 
+https://t.freetv.fun/live/tian-ying-jing-dian-1.php
