@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TVB J1" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="綜合" tvg-country="香港" tvg-language="香港", TVB J1 - 香港 
 https://t.freetv.fun/live/tvbj1-1.php
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="香港", TVB Plus - 香港 
-https://t.freetv.fun/live/tvb-plus-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB J1" tvg-logo="https://epg.pw/media/images/channel/2023/12/09/large/20231209230635791080_38.png" group-title="綜合" tvg-country="香港" tvg-language="香港", TVB J1 - 香港 
+https://t.freetv.fun/live/tvbj1.php
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="香港", TVB Plus - 香港 
 https://t.freetv.fun/live/tvb-plus-2.m3u8
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="香港", TVB Plus - 香港 
+https://t.freetv.fun/live/tvb-plus-3.m3u8
 #EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="綜藝" tvg-country="香港" tvg-language="香港", TVB Plus - 香港 
 https://t.freetv.fun/live/tvb-plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB 亞洲武俠" tvg-logo="https://epg.pw/media/images/channel/2024/11/11/large/20241111010034135563_37.png" group-title="電影" tvg-country="香港" tvg-language="香港", TVB 亞洲武俠 - 香港 
@@ -21,11 +23,9 @@ https://t.freetv.fun/live/tvbxing-he-3.m3u8
 https://t.freetv.fun/live/ming-zhu-tai-1.m3u8
 #EXTINF:-1 tvg-id="368369" tvg-name="明珠臺(備)" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="電影" tvg-country="香港" tvg-language="香港", 明珠臺(備) - 香港 
 https://t.freetv.fun/live/ming-zhu.m3u8
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠(字幕)" tvg-logo="https://epg.pw/media/images/channel/2026/03/15/large/20260315060958773762_47.png" group-title="綜合" tvg-country="香港" tvg-language="香港", 翡翠(字幕) - 香港 
-https://t.freetv.fun/live/fei-cui-tai-2.m3u8
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="香港", 翡翠台 - 香港 
 https://t.freetv.fun/live/fei-cui-tai.m3u8
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="香港", 翡翠台 - 香港 
-https://t.freetv.fun/live/fei-cui-2.m3u8
+https://t.freetv.fun/live/fei-cui-1.m3u8
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="綜合" tvg-country="香港" tvg-language="香港", 翡翠台 - 香港 
-https://t.freetv.fun/live/fei-cui.m3u8
+https://t.freetv.fun/live/fei-cui-tai-1.m3u8
