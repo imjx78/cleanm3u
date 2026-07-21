@@ -4,9 +4,9 @@ https://t.freetv.fun/live/eleven-sports-1-1.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="世界盃" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-2.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="世界盃" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
-https://t.freetv.fun/live/delta-tv.m3u8
-#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="世界盃" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-1.m3u8
+#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="世界盃" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
+https://t.freetv.fun/live/delta-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS FHD" tvg-logo="https://epg.pw/media/images/channel/2022/07/24/large/20220724211910619838_83.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS FHD - 台灣 
 https://t.freetv.fun/live/tvbs-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", TVBS HD - 台灣 
