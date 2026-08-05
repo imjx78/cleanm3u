@@ -1,11 +1,35 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [HD]t sports
 https://t.freetv.fun/live/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTA影劇HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113053852611_32.png" group-title="電影" tvg-country="台灣" tvg-language="台灣", ELTA影劇HD - 台灣 
+https://t.freetv.fun/live/eltaying-ju.php
+#EXTINF:-1 tvg-id="" tvg-name="ELTA日韓" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424184123256510_14.png" group-title="綜藝" tvg-country="台灣" tvg-language="台灣", ELTA日韓 - 台灣 
+https://t.freetv.fun/live/eltari-han.php
+#EXTINF:-1 tvg-id="370222" tvg-name="ELTA生活旅遊" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718003717714909_27.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA生活旅遊 - 台灣 
+https://t.freetv.fun/live/eltasheng-huo-lu-you.php
+#EXTINF:-1 tvg-id="" tvg-name="ELTA綜合HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719112901791592_35.png" group-title="綜合" tvg-country="台灣" tvg-language="台灣", ELTA綜合HD - 台灣 
+https://t.freetv.fun/live/eltazong-he.php
+#EXTINF:-1 tvg-id="457243" tvg-name="ELTA體育1(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063114777049_83.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育1(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-max1.php
+#EXTINF:-1 tvg-id="457244" tvg-name="ELTA體育2(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063130698602_20.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育2(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-2.php
+#EXTINF:-1 tvg-id="457244" tvg-name="ELTA體育2(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063130698602_20.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育2(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-max2.php
+#EXTINF:-1 tvg-id="457245" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063206340289_63.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育3(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-3.php
+#EXTINF:-1 tvg-id="457245" tvg-name="ELTA體育3(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063206340289_63.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育3(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-max3.php
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
 https://t.freetv.fun/live/delta-tv-2.m3u8
+#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-4.php
+#EXTINF:-1 tvg-id="457246" tvg-name="ELTA體育4(備用)" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620063150494947_77.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", ELTA體育4(備用) - 台灣 
+https://t.freetv.fun/live/eltati-yu-max4.php
 #EXTINF:-1 tvg-id="" tvg-name="MOMO Sports" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223003183088_57.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", [VGA]monomax sports
 https://t.freetv.fun/live/monomax-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="智林體育" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510161417649264_37.jpg" group-title="運動" tvg-country="台灣" tvg-language="台灣", [BD]智林体育
+https://t.freetv.fun/live/zhi-lin-ti-yu.php
