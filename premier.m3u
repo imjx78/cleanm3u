@@ -7,3 +7,5 @@ https://t.freetv.fun/live/delta-tv-1.m3u8
 https://t.freetv.fun/live/delta-tv-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOMO Sports" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223003183088_57.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", [VGA]monomax sports
 https://t.freetv.fun/live/monomax-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOMO Sports" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210223003183088_57.png" group-title="運動" tvg-country="台灣" tvg-language="台灣", [SD]monomax sports
+https://t.freetv.fun/live/monomax-sports-1.m3u8
