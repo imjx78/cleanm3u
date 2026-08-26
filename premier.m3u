@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sports Plus 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [HD]tigo sports plus
+#EXTINF:-1 tvg-id="" tvg-name="Sports Plus 2" tvg-logo="https://epg.pw/media/images/channel/2022/08/07/large/20220807222835770753_83.jpg" group-title="運動" tvg-country="香港" tvg-language="香港", [SD]tigo sports plus
 https://t.freetv.fun/live/tigo-sports-plus.m3u8
 #EXTINF:-1 tvg-id="3625" tvg-name="Premier Sports" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Sports" tvg-country="Malaysia" tvg-language="Malaysia", [BD]etreme sports
 https://t.freetv.fun/live/etreme-sports.m3u8
